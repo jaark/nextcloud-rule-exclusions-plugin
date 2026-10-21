@@ -5,7 +5,7 @@ meta:
 rule_id: 9508993
 tests:
   - test_id: 1
-    desc: Check that ODS file will pass with PUT on correct URL path
+    desc: Check that ODS file will pass with PUT on upload
     stages:
       - input:
           dest_addr: 127.0.0.1
